@@ -1,6 +1,6 @@
 # textual differentiation
 
-Scripts and code for machine learning-based analysis of **narrative pace** and **stylistic features** in *Virginia Woolf’s To the Lighthouse*, enabling reproducible computational literary research.
+Scripts and code for computational analysis of textual differentiation across the tripartite structure of Virginia Woolf’s To the Lighthouse, enabling reproducible computational literary research.
 
 ## License
 This project is licensed under the MIT License — see the LICENSE file for details.
