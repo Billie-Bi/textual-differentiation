@@ -1,0 +1,22 @@
+name: textual_indicators
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.20
+  - pip
+  - pip:
+      - numpy==1.25.2
+      - pandas==2.3.3
+      - scipy==1.15.3
+      - statsmodels==0.14.6
+      - spacy==3.8.14
+      - nltk==3.10.0
+      - sentence-transformers==5.6.0
+      - torch==2.13.0
+      - scikit-learn==1.7.1
+      - umap-learn==0.5.12
+      - matplotlib==3.10.9
+      - seaborn==0.13.2
+      - tqdm==4.68.4
+      - https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you use this software or the derived data, please cite this repository and the associated article.
+title: Computational analysis of textual differentiation across the tripartite structure of Virginia Woolf's To the Lighthouse
+type: software
+authors:
+  - family-names: Pan
+    given-names: Yan
+    affiliation: College of Foreign Languages and Literature, Jilin Normal University
+  - family-names: Bi
+    given-names: Liqi
+    affiliation: College of Foreign Languages and Literature, Jilin Normal University
+    email: liqi.bi@mails.jlnu.edu.cn
+version: 1.0.0
+date-released: 2026-08-01
+license: MIT
+keywords:
+  - computational literary studies
+  - digital humanities
+  - natural language processing
+  - textual analysis
+  - Virginia Woolf
+  - To the Lighthouse
