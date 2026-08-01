@@ -111,7 +111,7 @@ The principal package versions are:
 Clone the repository and run all commands from its root directory:
 
 ```bash
-git clone https://github.com/USERNAME/textual-differentiation.git
+git clone https://github.com/Billie-Bi/textual-differentiation.git
 cd textual-differentiation
 ```
 
